@@ -1,0 +1,8 @@
+image "WeaponBoomstick" "/Images/Boomstick.png"
+image "WeaponFingers" "/Images/Fingers.png"
+image "Health" "/Images/Health.png"
+image "Jumpster" "/Images/Jumpster.png"
+image "Popster" "/Images/poppingbastard.png"
+image "Ammo" "/Images/Ammo.png"
+eof
+

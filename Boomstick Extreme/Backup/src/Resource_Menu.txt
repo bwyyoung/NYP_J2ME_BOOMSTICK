@@ -1,0 +1,13 @@
+image "LeftArrow" "/Images/Arrow_Left.png"
+image "RightArrow" "/Images/Arrow_Right.png"
+image "Poster_Back" "/Images/Poster_Back.png"
+image "Poster_Demo" "/Images/Poster_Demo.png"
+image "Poster_1" "/Images/Poster_1.png"
+image "Poster_Locked" "/Images/Poster_Locked.png"
+image "BlackFade" "/Images/Black_DiagonalRight.png"
+image "Bar" "/Images/Position_Bar.png"
+image "Pointer_Red" "/Images/Position_Pointer.png"
+image "Wall" "/Images/Wall.png"
+image "Poster" "/Images/Poster.png"
+eof
+

@@ -1,0 +1,7 @@
+2
+Tutorial Level
+$500
+/test.txt
+Humptaro
+$5000
+/Weeds.txt
